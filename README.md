@@ -1,3 +1,4 @@
-# Invie-GitHub
-Las mejores guitarras Invie.
-  By Luis Colmenares
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
